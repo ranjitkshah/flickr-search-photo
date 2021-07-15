@@ -15,6 +15,9 @@
  - https://www.flickr.com/services/api/flickr.photos.getRecent.html
  - https://www.flickr.com/services/api/flickr.photos.search.html
 
+##  Deployment
+Live url: https://flickr-search-photo.vercel.app/
+
 
 ## screenshots
 ![Screenshot from 2021-07-16 01-34-08](https://user-images.githubusercontent.com/61561415/125850436-f806cb0a-ff0a-45b9-842b-f42b201cee52.png)
