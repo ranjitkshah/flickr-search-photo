@@ -15,6 +15,14 @@
  - https://www.flickr.com/services/api/flickr.photos.getRecent.html
  - https://www.flickr.com/services/api/flickr.photos.search.html
 
+
+## How to run on localhost
+
+ - yarn install
+ - add .env "REACT_APP_API_KEY" = <flicker_api_key>
+ - yarn start
+ - go to : http://localhost:3000/
+
 ##  Deployment
 Live url: https://flickr-search-photo.vercel.app/
 
